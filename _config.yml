@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Claire's Travel Blog
+title: Travel Blog
 subtitle: ''
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://vinceliao99.github.io/blog
+url: https://travelerblog.github.io/MyBlog/
 root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
